@@ -1,0 +1,30 @@
+.odin {
+    text-align: center;
+    color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    background-color: antiquewhite;
+}
+
+.list {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: whitesmoke ;
+    
+}
+
+.menu {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: goldenrod;
+
+}
+
+#step {
+    background-color: cadetblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.font {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
